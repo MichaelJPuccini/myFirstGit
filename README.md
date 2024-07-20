@@ -1,6 +1,6 @@
-#My First Git
+# My First Git
 
-##Project Description
+## Project Description
 Workshop 2, task 2. A simple hello world in node.js
 
 ## Installation Instructions
